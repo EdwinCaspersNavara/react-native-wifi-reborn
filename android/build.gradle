@@ -40,7 +40,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'
-
+    implementation 'com.thanosfisherman.elvis:elvis:3.0'
     implementation 'com.thanosfisherman.wifiutils:wifiutils:1.6.4'
 }
   
